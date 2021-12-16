@@ -7,11 +7,11 @@ Customer can pay for the invoice via Stripe
 Users will be able to manage their invoices
 
 ## Stack
-MongoDB
-Express.JS
-Svelte
-Stripe.JS
-Email.JS
+- MongoDB
+- Express.JS
+- Svelte
+- Stripe.JS
+- Email.JS
 
 ## Models
 User: 

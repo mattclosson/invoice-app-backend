@@ -15,15 +15,15 @@ Email.JS
 
 ## Models
 User: 
-  username: String,
-  password: String,
-  stripeAccountId: String
+  - username: String,
+  - password: String,
+  - stripeAccountId: String
 Invoice:
-  userId: String,
-  paymentDue: Date,
-  total: Number,
-  paid: Boolean,
-  description: String
+  - userId: String,
+  - paymentDue: Date,
+  - total: Number,
+  - paid: Boolean,
+  - description: String
   
 ## Routes
 |               |               |

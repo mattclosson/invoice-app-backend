@@ -18,6 +18,8 @@ User:
   - username: String,
   - password: String,
   - stripeAccountId: String
+
+
 Invoice:
   - userId: String,
   - paymentDue: Date,
